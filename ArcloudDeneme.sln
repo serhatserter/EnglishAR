@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcloudDeneme", "ArcloudDeneme.csproj", "{78D22D29-E6AA-15D0-AE8F-8EBE57979AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcloudDeneme.Editor", "ArcloudDeneme.Editor.csproj", "{4AEE4424-EDB7-3CB3-4684-C577022788AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D22D29-E6AA-15D0-AE8F-8EBE57979AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D22D29-E6AA-15D0-AE8F-8EBE57979AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D22D29-E6AA-15D0-AE8F-8EBE57979AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D22D29-E6AA-15D0-AE8F-8EBE57979AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEE4424-EDB7-3CB3-4684-C577022788AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEE4424-EDB7-3CB3-4684-C577022788AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEE4424-EDB7-3CB3-4684-C577022788AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEE4424-EDB7-3CB3-4684-C577022788AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
